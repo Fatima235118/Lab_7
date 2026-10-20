@@ -1,0 +1,11 @@
+Task 4: Merge Enrollments with Courses
+
+Left Outer: 10 rows
+Inner: 9 rows
+Full Outer: 11 rows
+Left Anti: 1 row
+
+Left Outer includes all enrollment records.
+Inner includes only matching course records.
+Full Outer includes all records from both tables.
+Left Anti shows enrollments with no matching course.
